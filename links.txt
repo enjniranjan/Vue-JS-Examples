@@ -1,0 +1,16 @@
+Comparison with other frameworks:
+
+https://vuejs.org/v2/guide/comparison.html
+
+Introductory guide:
+https://vuejs.org/v2/guide/
+
+
+vueAPI
+vueLoader .vue  https://github.com/vuejs/vue-loader
+vuex
+
+https://auth0.com/blog/build-an-app-with-vuejs/
+https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2
+https://router.vuejs.org/en/essentials/getting-started.html
+
